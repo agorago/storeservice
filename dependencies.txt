@@ -1,0 +1,2 @@
+wego,../wego,github.com/agorago/wego,false
+storeapi,../storeapi,github.com/agorago/storeapi,false
